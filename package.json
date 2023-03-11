@@ -1,0 +1,18 @@
+{
+  "name": "miss-bug-proj",
+  "version": "1.0.0",
+  "description": "My first Node server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "",
+    "dev": "set PORT=3030 & nodemon --ignore \"./data\" server.js",
+    "show-files": "dir"
+  },
+  "author": "Me",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cryptr": "^6.2.0",
+    "express": "^4.18.2"
+  }
+}
