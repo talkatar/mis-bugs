@@ -29,21 +29,6 @@
     }
   },
   {
-    "_id": "YDjW6",
-    "title": "asdasd",
-    "severity": 1,
-    "createdAt": 1678476940818,
-    "labels": [
-      "critical",
-      "need-CR",
-      "dev-branch"
-    ],
-    "creator": {
-      "_id": "dfg88",
-      "fullname": "Puki Ba"
-    }
-  },
-  {
     "_id": "nGnYH",
     "title": "new bug ",
     "severity": 1,
